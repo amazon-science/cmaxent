@@ -15,14 +15,7 @@ Finally, you should make sure that there is a `results` folder inside the `exper
 If you use this code in your own research, please cite our paper
 
 ```
-@article{garrido2022obtaining,
-  title={Obtaining causal information by merging datasets with MAXENT},
-  author={{Garrido Mejia} {Sergio Hernan} and Kirschbaum Elke and Janzing Dominik},
-  journal={International Conference on Artificial Intelligence and Statistics},
-  pages={tba},
-  year={2022},
-  organizartion={PMLR}
-}
+Garrido Mejia, S.H., Kirschbaum, E. and Janzing, D., 2022, May. Obtaining causal information by merging datasets with maxent. In International Conference on Artificial Intelligence and Statistics (pp. 581-603). PMLR.
 ```
 
 ## Further reading:
