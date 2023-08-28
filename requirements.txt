@@ -1,5 +1,5 @@
 absl-py==0.13.0
-attrs==21.2.0
+attrs==23.1.0
 beautifulsoup4==4.9.3
 certifi==2022.12.7
 charset-normalizer==2.0.4
