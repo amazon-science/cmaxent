@@ -39,5 +39,5 @@ statsmodels==0.12.2
 threadpoolctl==2.1.0
 toml==0.10.2
 tqdm==4.61.2
-urllib3==1.26.6
+urllib3==2.0.6
 webencodings==0.5.1
